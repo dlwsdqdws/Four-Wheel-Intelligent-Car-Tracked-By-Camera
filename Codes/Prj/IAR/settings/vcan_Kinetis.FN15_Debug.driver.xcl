@@ -1,0 +1,19 @@
+"--endian=little" 
+
+"--cpu=Cortex-M4" 
+
+"--fpu=VFPv4_SP" 
+
+"-p" 
+
+"E:\IAR for arm\arm\CONFIG\debugger\NXP\MK60FN1M0xxx15.ddf" 
+
+"--semihosting=none" 
+
+"--device=MK60FN1M0xxx15" 
+
+"--multicore_nr_of_cores=1" 
+
+
+
+

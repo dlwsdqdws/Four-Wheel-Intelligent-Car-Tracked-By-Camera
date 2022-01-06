@@ -1,0 +1,15 @@
+"E:\IAR for arm\arm\bin\armproc.dll" 
+
+"E:\IAR for arm\arm\bin\armjlink2.dll" 
+
+"F:\smartcar\光电卓越智能车2.0\Prj\IAR\FX15_Debug\Exe\vcan_Kinetis.out" 
+
+--plugin "E:\IAR for arm\arm\bin\armbat.dll" 
+
+--device_macro "E:\IAR for arm\arm\config\debugger\NXP\Kxx.dmac" 
+
+--device_macro "E:\IAR for arm\arm\config\debugger\NXP\Kxx_Trace.dmac" 
+
+
+
+
